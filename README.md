@@ -4,8 +4,7 @@
 Casper is a single-column theme for [Hugo](http://gohugo.io/).
 Ported from [Casper theme for Ghost ](https://github.com/TryGhost/Casper)
 
-blog demo : http://vjeantet.fr
-blog source : https://github.com/vjeantet/vjeantet.fr
+Originally created by [vjeantet](https://github.com/vjeantet/hugo-theme-casper), this fork introduces some changes reflecting updates to newer versions from Hugo.
 
 ![Hugo Casper Theme screenshot](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/master/images/screen.png)
 
@@ -162,6 +161,5 @@ Contents here
 
 # Contact me
 
-:beetle: open an issue in github
+:beetle: [open an issue in github](https://github.com/lullis/hugo-theme-casper/issues)
 
-:bird: [https://twitter.com/vjeantet](https://twitter.com/vjeantet)
